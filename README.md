@@ -1,7 +1,7 @@
 # Hi there 👋, I'm **Abdul Fatir Ansari**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Blockchain+%26+Full-Stack+Developer;Building+decentralized+future+one+block+at+a+time;+4%2B+years+in+Web3+%26+MERN+Stack;Let's+connect+on+LinkedIn!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&&lines=Blockchain+%26+Full-Stack+Developer;Building+decentralized+future+one+block+at+a+time;+4%2B+years+in+Web3+%26+MERN+Stack;Let's+connect+on+LinkedIn!" alt="Typing SVG" />
 </div>
 
 <p align="center">
